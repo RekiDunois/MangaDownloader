@@ -7,5 +7,41 @@ https://i.imgur.com/
 
 data-src="https://i.imgur.com/WF1gKZP.png"
 
+(\].*?<|>[\\u3000]|/>.+<)+
+
+le>.*?-    #匹配章节页面中的章节标题
+└.*?</a>   #匹配该作者的创作的作品列表
+
 '[\'<a class="TS1" href="creationDetail.php?sn=3931437">[翻譯]蘇聯艦，脫了很大同志</a>\', \'<a class="TS1" href="creationDetail.php?sn=3929573">[翻譯]其名喚甘古特</a>\', \'<a class="TS1" href="creationDetail.php?sn=3929169">[翻譯]艦娘，亡國的戰艦</a>\', \'<a class="TS1" href="creationDetail.php?sn=3928039">\\u3000\\u3000\\u3000\\u3000\\u3000\\u3000\\u3000\\u3000</a>\', \'<a class="TS1" href="creationDetail.php?sn=3923665">[翻譯]Ташкент同志著任</a>\', \'<a class="TS1" href="creationDetail.php?sn=3920258">[翻譯]艦娘，Nerd女孩</a>\', \'<a class="TS1" href="creationDetail.php?sn=3914459">[翻譯]艦娘，在破曉的水平線上——</a>\', \'<a class="TS1" href="creationDetail.php?sn=3913352">[翻譯]艦娘，真正的旗艦</a>\', \'<a class="TS1" href="creationDetail.php?sn=3912287">[翻譯]艦娘，友軍艦隊抵達</a>\', \'<a class="TS1" href="creationDetail.php?sn=3910533">[翻譯]深海鶴棲姬，精神攻擊是基本</a>\']'
-　　　　　　　　 
+
+<!-- End Google Tag Manager --><div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/zh_TW/all.js#xfbml=1&appId=668497826514848"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
+
+<title>[翻譯]蘇聯艦，脫了很大同志 - tpesamguo的創作 - 巴哈姆特</title>
+
+<title>\\u3000\\u3000</title>
+
+[
+'└<a href="creationCategory.php?owner=tpesamguo&c=338592"><img src="https://i2.bahamut.com.tw/home/folder.gif" />いど (297)</a>', 
+'└<a href="creationCategory.php?owner=tpesamguo&c=381548"><img src="https://i2.bahamut.com.tw/home/folder.gif" />赤坊主＿六驅篇 (55)</a>', 
+'└<a href="creationCategory.php?owner=tpesamguo&c=381547"><img src="https://i2.bahamut.com.tw/home/folder.gif" />赤坊主＿木曾篇 (62)</a>', 
+'└<a href="creationCategory.php?owner=tpesamguo&c=339822"><img src="https://i2.bahamut.com.tw/home/folder.gif" />赤坊主＿叢雲篇 (58)</a>', 
+'└<a href="creationCategory.php?owner=tpesamguo&c=343462"><img src="https://i2.bahamut.com.tw/home/folder.gif" />矢野トシノリ＿夕張30歲系列 (76)</a>', 
+'└<a href="creationCategory.php?owner=tpesamguo&c=381549"><img src="https://i2.bahamut.com.tw/home/folder.gif" />矢野トシノリ＿其他 (33)</a>', 
+'└<a href="creationCategory.php?owner=tpesamguo&c=381555"><img src="https://i2.bahamut.com.tw/home/folder.gif" />ひかわ79＿艦娘1P漫 (13)</a>', 
+'└<a href="creationCategory.php?owner=tpesamguo&c=350221"><img src="https://i2.bahamut.com.tw/home/folder.gif" />ひかわ79＿北上提督與秘書艦球磨 (44)</a>', 
+'└<a href="creationCategory.php?owner=tpesamguo&c=340993"><img src="https://i2.bahamut.com.tw/home/folder.gif" />すずきとと (108)</a>', 
+'└<a href="creationCategory.php?owner=tpesamguo&c=359566"><img src="https://i2.bahamut.com.tw/home/folder.gif" />千氏夜 (30)</a>', 
+'└<a href="creationCategory.php?owner=tpesamguo&c=360100"><img src="https://i2.bahamut.com.tw/home/folder.gif" />きょうさる (28)</a>', 
+'└<a href="creationCategory.php?owner=tpesamguo&c=339197"><img src="https://i2.bahamut.com.tw/home/folder.gif" />あつし (50)</a>', 
+'└<a href="creationCategory.php?owner=tpesamguo&c=400195"><img src="https://i2.bahamut.com.tw/home/folder.gif" />negahami (1)</a>', 
+'└<a href="creationCategory.php?owner=tpesamguo&c=400727"><img src="https://i2.bahamut.com.tw/home/folder.gif" />ウミノモクズ (10)</a>', 
+'└<a href="creationCategory.php?owner=tpesamguo&c=341497"><img src="https://i2.bahamut.com.tw/home/folder.gif" />子亀 (48)</a>', 
+'└<a href="creationCategory.php?owner=tpesamguo&c=339687"><img src="https://i2.bahamut.com.tw/home/folder.gif" />明日葉友婁 (9)</a>', 
+'└<a href="creationCategory.php?owner=tpesamguo&c=351157"><img src="https://i2.bahamut.com.tw/home/folder.gif" />RaythalosM (8)</a>', 
+'└<a href="creationCategory.php?owner=tpesamguo&c=343806"><img src="https://i2.bahamut.com.tw/home/folder.gif" />エビゾメ (2)</a>', 
+'└<a href="creationCategory.php?owner=tpesamguo&c=344874"><img src="https://i2.bahamut.com.tw/home/folder.gif" />いおりん (2)</a>', 
+'└<a href="creationCategory.php?owner=tpesamguo&c=381546"><img src="https://i2.bahamut.com.tw/home/folder.gif" />其他 (5)</a>', 
+'└<a href="creationCategory.php?owner=tpesamguo&c=374534"><img src="https://i2.bahamut.com.tw/home/folder.gif" />ぼこちょ (26)</a>', 
+'└<a href="creationCategory.php?owner=tpesamguo&c=376208"><img src="https://i2.bahamut.com.tw/home/folder.gif" />くぼけん (23)</a>', 
+'└<a href="creationCategory.php?owner=tpesamguo&c=375070"><img src="https://i2.bahamut.com.tw/home/folder.gif" />千氏夜＿美夜醬 (10)</a>', 
+'└<a href="creationCategory.php?owner=tpesamguo&c=389212"><img src="https://i2.bahamut.com.tw/home/folder.gif" />千氏夜＿其它 (19)</a>']
