@@ -1,0 +1,11 @@
+<a href="creationCategory.php?page=1&amp;owner=tpesamguo&amp;v=0&amp;c=338592">2</a>
+https://i.imgur.com/
+
+<a\sclass="TS1"\shref="creationDetail.php\?sn=(.*?)">(.*?)</a>
+
+['data-src="https://i.imgur.com/2BxaMpy.jpg"', 'data-src="http://i.imgur.com/nSnV8lK.png"', 'data-src="http://i.imgur.com/u9mazdy.png"']
+
+data-src="https://i.imgur.com/WF1gKZP.png"
+
+'[\'<a class="TS1" href="creationDetail.php?sn=3931437">[翻譯]蘇聯艦，脫了很大同志</a>\', \'<a class="TS1" href="creationDetail.php?sn=3929573">[翻譯]其名喚甘古特</a>\', \'<a class="TS1" href="creationDetail.php?sn=3929169">[翻譯]艦娘，亡國的戰艦</a>\', \'<a class="TS1" href="creationDetail.php?sn=3928039">\\u3000\\u3000\\u3000\\u3000\\u3000\\u3000\\u3000\\u3000</a>\', \'<a class="TS1" href="creationDetail.php?sn=3923665">[翻譯]Ташкент同志著任</a>\', \'<a class="TS1" href="creationDetail.php?sn=3920258">[翻譯]艦娘，Nerd女孩</a>\', \'<a class="TS1" href="creationDetail.php?sn=3914459">[翻譯]艦娘，在破曉的水平線上——</a>\', \'<a class="TS1" href="creationDetail.php?sn=3913352">[翻譯]艦娘，真正的旗艦</a>\', \'<a class="TS1" href="creationDetail.php?sn=3912287">[翻譯]艦娘，友軍艦隊抵達</a>\', \'<a class="TS1" href="creationDetail.php?sn=3910533">[翻譯]深海鶴棲姬，精神攻擊是基本</a>\']'
+　　　　　　　　 
