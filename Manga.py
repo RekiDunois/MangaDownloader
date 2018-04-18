@@ -60,7 +60,7 @@ def get_part(url, pattern):
 def get_title(url,pattern):
     #获得汉字标题, 漫画|章节标题
     TitlePart = Geturl.get_part(url, pattern)
-    _pattern = re.compile(r'(\].*?<|>[\\u3000]|/>.+<)+', re.S)
+    _pattern = re.compile(r'(e>.*?-|/>.+<)+', re.S)
     result = re.findall(_pattern, TitlePart)
     return result
 
